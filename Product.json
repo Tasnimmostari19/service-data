@@ -1,0 +1,32 @@
+[
+    {
+        "name": "General Imaging 3D Physiotherapy Machine",
+        "price": 1000,
+        "img": "https://5.imimg.com/data5/WD/ZD/WV/SELLER-2722939/physiotherapy-equipments-500x500.jpg"
+    },
+    {
+        "name": "Ultrasound Physiotherapy Equipment",
+        "price": 1500,
+        "img": "http://www.medinza.in/wp-content/uploads/2019/06/24.jpg"
+    },
+    {
+        "name": "Round Cushion",
+        "price": 300,
+        "img": "https://cdn11.bigcommerce.com/s-b12o4d3w60/images/stencil/1280x1280/products/1176/1174/B003C0PR5I.MAIN__32504.1549038637.jpg?c=2"
+    },
+    {
+        "name": "Cylindrical Cushion",
+        "price": 350,
+        "img": "https://m.media-amazon.com/images/I/81HoZTLuj1L._AC_SL1500_.jpg"
+    },
+    {
+        "name": "Mild Steel Physiotherapy Chair, For Personal",
+        "price": 2000,
+        "img": "https://5.imimg.com/data5/FP/KK/MY-59016000/physiotherapy-chair-500x500.jpg"
+    },
+    {
+        "name": "kinesio tape",
+        "price": 400,
+        "img": "https://images.squarespace-cdn.com/content/v1/5ef35a020f98732ba5f395f6/1597695600427-N3H3SYCIKCUB1YZLDJDT/kinesiotaping-shoulder-1-min.jpg?format=2500w"
+    }
+]
